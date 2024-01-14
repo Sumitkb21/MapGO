@@ -1,5 +1,4 @@
 # mapGo
-This appllication is in development stage.
 MapGo is a website developed for the IIT-K junta, which provides the user an all-in one go-to application to navigate through the campus as well as schedule, organise 
 and announce events.
 The application provides a personalised maps where they can mark their areas of 
